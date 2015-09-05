@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8c7bd153ec7c0664cbeb8fbac3b54e92
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - compassGrid: {fileID: 2800000, guid: 59047645802cfad4cac2ba6b76f277b1, type: 3}
+  - compassBoat: {fileID: 2800000, guid: b7e7a0fe90cc6cc4ebb5ef3651d99bfb, type: 3}
+  - compassMark: {fileID: 2800000, guid: dd501f7f580bada4bbd6ac723ac216fb, type: 3}
+  - compassLine: {fileID: 2800000, guid: d1130197e7f7d8445a12451f321944bc, type: 3}
+  - buttonFast: {fileID: 2800000, guid: 2d993ed1e95166847b9f593c0b6a4f30, type: 3}
+  - buttonSlow: {fileID: 2800000, guid: 86e9651eac8795b478b652968885d7bf, type: 3}
+  - buttonPlay: {fileID: 2800000, guid: c9f8ca0477045be438167ec6ede89bd8, type: 3}
+  - buttonPause: {fileID: 2800000, guid: 88e0824b128889d42bda9b02229b1a72, type: 3}
+  - templateMark: {fileID: 100002, guid: 72c9e93e37ad4484482ad82338d4c9d8, type: 2}
+  - templateGridLine: {fileID: 100000, guid: ebc8eb2a1b89c1840b22105c3f0d3ec9, type: 2}
+  - templateRaceLine: {fileID: 100000, guid: 9c9bc28eab5ec3b458fde3288835aa96, type: 2}
+  - templateBoat_470: {fileID: 100048, guid: 2cf12c562ff7f5d4ab0192092b9731da, type: 2}
+  - templateBoat_optimist: {fileID: 100040, guid: f67fdc9459b05e246ad26b6889fc3cb9,
+      type: 2}
+  - templateBoat_other: {fileID: 100046, guid: ad58d815e8e14a84eaa753e00c605516, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

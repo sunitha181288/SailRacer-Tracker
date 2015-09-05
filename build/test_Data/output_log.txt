@@ -1,0 +1,18 @@
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.29]
+    Renderer: ATI Mobility Radeon HD 5470 
+    Vendor:   ATI
+    VRAM:     503 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-02F99328 (this message is harmless)
+Non platform assembly: data-02FFFB50 (this message is harmless)
+started
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+startup:Start()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
